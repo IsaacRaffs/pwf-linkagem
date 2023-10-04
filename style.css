@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    background-image: url(fundo-f1.jpg);
+    background-repeat: repeat-y;
+}
+h1{
+    color: white;
+    background-color: black;
+}
+h2{
+    color: white;
+    background-color: black;
+}
+li{
+    list-style-type: none;
+}
+#ids{
+    text-align: center;
+}
+h3:hover{
+    color: #d7b700;
+}
+li:hover{
+    color: #ffd700;
+}
+p{
+    text-indent: 10%;
+}
